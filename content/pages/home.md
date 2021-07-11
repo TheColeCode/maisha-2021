@@ -1,30 +1,15 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Life Photography
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: So that your special moments last forever
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: "Maisha Photography is a Family, Portrait, Event, Newborn,
+    Engagement photographer serving Sonoma County, San Francisco, Marin County,
+    Napa County, Sacramento County areas. "
+  title: Maisha Photography | Family, Portrait, Event, Newborn
 ---
+Welcome to the portfolio of Maisha Photography. 'Maisha' translates to 'Life' in Swahili. I am Eunice Ndegwa, a Kenyan/American photographer with experience in Family, Portrait, Event, and Newborn photography. I am happy to serve you across Sonoma County, San Francisco, and the greater Bay Area. Please follow me on Instagram @maisha.photography.ig and reach out for bookings and questions. 
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
-
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+![Maisha Photography](https://ucarecdn.com/b71f804f-85d6-4151-b014-172573988d1a/ "Eunice Ndegwa of Maisha Photography")
