@@ -13,6 +13,11 @@
   height: 6rem;
 }
 
+.Nav--Container .container {
+  display: flex;
+  justify-content: space-between;
+}
+
 .Nav--Links {
   display: flex;
   align-items: center;
