@@ -13,7 +13,7 @@
   height: 6rem;
 }
 
-.Nav--Container .container {
+.Nav--Container.container {
   display: flex;
   justify-content: space-between;
 }
