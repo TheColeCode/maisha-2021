@@ -7,7 +7,10 @@ subtitle: Bookings, Pricing, Questions
 address: Sonoma County, CA
 phone: (707) 570-5740
 email: eunice.maishaphotography@gmail.com
-locations: []
+locations:
+  - mapLink: ""
+    lat: ""
+    lng: ""
 meta:
   description: Contact for Bookings and Questions
   title: Contact Page
