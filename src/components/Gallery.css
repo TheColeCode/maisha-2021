@@ -24,6 +24,7 @@
   .Gallery--Item {
     width: 100%;
     max-width: 30rem;
+    margin-bottom: 10px;
   }
 }
 
