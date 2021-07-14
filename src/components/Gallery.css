@@ -14,10 +14,10 @@
 }
 
 .Gallery--Item {
-  max-width: 48%;
+  max-width: 49%;
   flex: 48%;
   cursor: pointer;
-  padding: 0 4px;
+  margin-bottom: 10px;
 }
 
 @media screen and (max-width: 750px) {
