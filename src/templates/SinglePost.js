@@ -65,6 +65,7 @@ export const SinglePostTemplate = ({
             <Content source={body} />
             <section className="section">
               <div className="container">
+                <h3>Click on an image below to open the Gallery</h3>
                 <Gallery images={gallery} />
               </div>
             </section>
@@ -76,7 +77,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link prev"
                 to={prevPostURL}
               >
-                Previous Post
+                Previous Category
               </Link>
             )}
             {nextPostURL && (
@@ -84,7 +85,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
               >
-                Next Post
+                Next Category
               </Link>
             )}
           </div>
