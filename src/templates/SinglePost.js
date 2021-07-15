@@ -8,6 +8,15 @@ import Layout from '../components/Layout'
 import Gallery from '../components/Gallery'
 import './SinglePost.css'
 
+const passwordPrompt = () => {
+  let pw;
+
+  pw = prompt("Please enter your provided password");
+  while (pw !== '2021') {
+     pw = prompt("Please enter your provided password");
+  } 
+};
+
 export const SinglePostTemplate = ({
   title,
   date,
@@ -42,14 +51,9 @@ export const SinglePostTemplate = ({
               <Fragment>
                 <span>|</span>
                 {categories.map((cat, index) => (
-                  <span
-                    key={cat.category}
-                    className="SinglePost--Meta--Category"
-                  >
-                    {cat.category}
-                    {/* Add a comma on all but last category */}
-                    {index !== categories.length - 1 ? ',' : ''}
-                  </span>
+                  <>
+                    {cat.category === 'Private' ? passwordPrompt() : null}
+                  </>
                 ))}
               </Fragment>
             )}
@@ -71,7 +75,7 @@ export const SinglePostTemplate = ({
             </section>
           </div>
 
-          <div className="SinglePost--Pagination">
+          {/* <div className="SinglePost--Pagination">
             {prevPostURL && (
               <Link
                 className="SinglePost--Pagination--Link prev"
@@ -88,7 +92,7 @@ export const SinglePostTemplate = ({
                 Next Category
               </Link>
             )}
-          </div>
+          </div> */}
         </div>
       </div>
     </article>
