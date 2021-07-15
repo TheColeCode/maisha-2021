@@ -8,15 +8,15 @@ import Layout from '../components/Layout'
 import Gallery from '../components/Gallery'
 import './SinglePost.css'
 
-const passwordPrompt = () => {
-  let pw;
-  const year = new Date().getFullYear();
+// const passwordPrompt = () => {
+//   let pw;
+//   const year = new Date().getFullYear();
 
-  pw = window.prompt("Please enter your provided password");
-  while (pw !== year) {
-     pw = window.prompt("Please enter your provided password");
-  } 
-};
+//   pw = window.prompt("Please enter your provided password");
+//   while (pw !== year) {
+//      pw = window.prompt("Please enter your provided password");
+//   } 
+// };
 
 export const SinglePostTemplate = ({
   title,
@@ -53,7 +53,7 @@ export const SinglePostTemplate = ({
                 <span>|</span>
                 {categories.map((cat, index) => (
                   <>
-                    {cat.category === 'Private' ? passwordPrompt() : null}
+                    {/* {cat.category === 'Private' ? passwordPrompt() : null} */}
                   </>
                 ))}
               </Fragment>
