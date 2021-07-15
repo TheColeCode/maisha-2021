@@ -10,10 +10,11 @@ import './SinglePost.css'
 
 const passwordPrompt = () => {
   let pw;
+  const year = new Date().getFullYear();
 
-  pw = prompt("Please enter your provided password");
-  while (pw !== '2021') {
-     pw = prompt("Please enter your provided password");
+  pw = window.prompt("Please enter your provided password");
+  while (pw !== year) {
+     pw = window.prompt("Please enter your provided password");
   } 
 };
 
