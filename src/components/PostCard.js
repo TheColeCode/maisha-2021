@@ -13,7 +13,7 @@ const PostCard = ({
   className = '',
   ...props
 }) => (
-  <Link to={slug} className={`PostCard ${className}`}>
+  <Link to={slug} className={`PostCard ${className} ${categories && categories.map(cat => cat.category).join(', ')}`}>
     {featuredImage && (
       <div className="PostCard--Image relative">
         <Image background src={featuredImage} alt={title} />
@@ -21,9 +21,9 @@ const PostCard = ({
     )}
     <div className="PostCard--Content">
       {title && <h3 className="PostCard--Title">{title}</h3>}
-      <div className="PostCard--Category">
+      {/* <div className="PostCard--Category">
         {categories && categories.map(cat => cat.category).join(', ')}
-      </div>
+      </div> */}
       {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
     </div>
   </Link>

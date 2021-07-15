@@ -166,6 +166,9 @@ blockquote {
 .section.thin {
   padding: 3.5rem 0;
 }
+.Blog .section.thin {
+  display: none;
+}
 .section.noPadding {
   padding: 0;
 }
@@ -231,4 +234,7 @@ blockquote {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.pswp__button.pswp__button--share {
+  display: none;
 }
