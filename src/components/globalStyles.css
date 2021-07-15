@@ -166,7 +166,7 @@ blockquote {
 .section.thin {
   padding: 3.5rem 0;
 }
-.Blog .section.thin {
+.Blog .section.thin .Portfolio .section.thin {
   display: none;
 }
 .section.noPadding {
