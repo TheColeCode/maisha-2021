@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ""
-title: Life Photography
+title: Life's Moments
 featuredImage: https://ucarecdn.com/ef836fda-702b-4522-8661-1792961d852f/
-subtitle: So that your special moments last forever
+subtitle: Let's make them last forever
 meta:
   description: "Maisha Photography is a Family, Portrait, Event, Newborn,
     Engagement photographer serving Sonoma County, San Francisco, Marin County,
