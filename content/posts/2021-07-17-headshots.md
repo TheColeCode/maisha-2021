@@ -3,7 +3,7 @@ template: SinglePost
 title: Headshots
 status: Published
 date: 2021-06-17
-featuredImage: https://ucarecdn.com/1fb2229b-d158-4cf0-a967-03447db1d15a/
+featuredImage: https://ucarecdn.com/4ad08e1f-0cf7-4a69-a0ee-b4e13f60b4c4/-/crop/1080x848/0,0/-/preview/
 excerpt: Headshots for professional profiles, senior pictures, and more.
 categories:
   - category: Public
