@@ -2,23 +2,27 @@
   background-color: var(--darkGrey);
   color:  var(--primary);
   padding: 20rem 0;
+  border-bottom: 3px solid var(--primary);
+  border-top: 3px solid var(--primary);
 }
 
 
 .PageHeader-large {
   padding: 20rem 0;
+  border-bottom: 3px solid var(--primary);
+  border-top: 3px solid var(--primary);
 }
 
 .PageHeader--Title {
   font-size: 6rem;
   margin-bottom: 0;
-  text-shadow: 1px 2px 2px #808080;
+  text-shadow: 1px 1px 1px #808080;
 }
 
 .PageHeader--Subtitle {
   font-weight: 400;
   font-size: 1.8rem;
-  text-shadow: 1px 2px 6px black;
+  text-shadow: 1px 1px 1px #808080;
   display: none;
 }
 
