@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Life's Moments
-featuredImage: https://ucarecdn.com/1bb929b9-1910-460a-b909-75b500414459/
+featuredImage: https://ucarecdn.com/be053c5b-c95c-4b9c-b465-09840c5dcb0b/
 subtitle: Let's make them last forever
 meta:
   description: "Maisha Photography is a Family, Portrait, Event, Newborn,
