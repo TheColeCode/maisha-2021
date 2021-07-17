@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Life Photography
-featuredImage: https://ucarecdn.com/77b4b0f7-74e2-4f47-b0e0-589ecafd2a0c/
+featuredImage: https://ucarecdn.com/ef836fda-702b-4522-8661-1792961d852f/
 subtitle: So that your special moments last forever
 meta:
   description: "Maisha Photography is a Family, Portrait, Event, Newborn,
