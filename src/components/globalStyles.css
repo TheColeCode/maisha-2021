@@ -10,6 +10,17 @@
   --borderRadius: 3px;
 }
 
+@font-face {
+  font-family: 'DancingScript-Regular';
+  src: url(DancingScript-Regular.woff),
+      url(DancingScript-Regular.tff),
+      url(DancingScript-Regular.eot);
+}
+
+body {
+  font-family: 'DancingScript-Regular' !important;
+}
+
 ::-webkit-scrollbar {
   width: 0.4rem;
 }
