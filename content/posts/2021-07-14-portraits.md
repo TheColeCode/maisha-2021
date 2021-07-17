@@ -4,7 +4,9 @@ title: Portraits
 status: Published
 date: 2021-07-14
 featuredImage: https://ucarecdn.com/15ad071d-e748-4b75-9f8d-b37e132fbb0c/
-excerpt: Portraits for your ...
+excerpt: "Portraits are a great way to capture kids in memorable moments,
+  celebrate special events like a graduation, and give as a gift to a loved one.
+  "
 categories:
   - category: Public
 gallery:
@@ -23,4 +25,4 @@ gallery:
   - image: https://ucarecdn.com/7bc68406-9922-4515-ba9d-ddd9eac2fbb5/
     alt: kid in barn
 ---
-Portraits for your ...
+Portraits are a great way to capture kids in memorable moments, celebrate special events like a graduation, and give as a gift to a loved one.
