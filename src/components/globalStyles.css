@@ -12,9 +12,9 @@
 
 @font-face {
   font-family: 'DancingScript-Regular';
-  src: url(../fonts/DancingScript-Regular.woff),
-      url(../fonts/DancingScript-Regular.tff),
-      url(../fonts/DancingScript-Regular.eot);
+  src: url(fonts/DancingScript-Regular.woff),
+      url(fonts/DancingScript-Regular.tff),
+      url(fonts/DancingScript-Regular.eot);
 }
 
 body {
