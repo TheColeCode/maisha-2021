@@ -25,6 +25,7 @@
   overflow: hidden;
   background-image: none !important;
   box-shadow: 0 2px 15px rgb(0 0 0 / 10%);
+  padding: 10px;
 }
 
 .BackgroundImage .Image {
