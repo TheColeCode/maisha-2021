@@ -17,4 +17,4 @@ meta:
 ---
 # For Bookings:
 
-Please leave your preffered contact information and details about which kind of session you are interested in.
+Please leave your preferred contact information and details about which kind of session you are interested in.
