@@ -4,9 +4,6 @@
   padding: 15rem 0;
 }
 
-.PageHeader .BackgroundImage {
-  opacity: 0.8;
-}
 
 .PageHeader-large {
   padding: 20rem 0;
@@ -31,6 +28,6 @@
     padding: 7rem 0;
   }
   .PageHeader-large {
-    padding: 12.5rem 0;
+    padding: 4.5rem 0;
   }
 }
