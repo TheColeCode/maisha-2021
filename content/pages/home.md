@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: Life's Moments
+title: Welcome
 featuredImage: https://ucarecdn.com/9b6ed342-11e5-4416-b881-0ec626a9a2f2/
 subtitle: Let's make them last forever
 meta:
