@@ -23,16 +23,6 @@
   transform: translateX(-0.25em);
 }
 
-.SinglePost--Content {
-  background: white;
-}
-
-@media screen and (max-width: 750px) {
-  .SinglePost--Content {
-    padding: 4rem 2rem;
-  }
-}
-
 .SinglePost--Meta {
   display: none;
   font-size: 1rem;
@@ -50,7 +40,7 @@
 }
 
 .SinglePost--InnerContent {
-  padding: 0 8rem;
+  padding: 0;
   text-align: center;
 }
 
