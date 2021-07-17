@@ -2,7 +2,7 @@
 template: SinglePost
 title: Headshots
 status: Published
-date: 2021-07-17
+date: 2021-06-17
 featuredImage: https://ucarecdn.com/667b33cc-45d1-407f-8f29-5239a1177fd8/
 excerpt: Headshots for professional profiles, senior pictures, and more.
 categories:
