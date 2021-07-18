@@ -14,10 +14,9 @@
 }
 
 .Gallery--Item {
-  max-width: 49%;
-  flex: 48%;
   cursor: pointer;
-  margin-bottom: 10px;
+  margin: 10px;
+  flex-grow: 1;
 }
 
 @media screen and (max-width: 750px) {
@@ -30,8 +29,8 @@
 
 .Gallery--Item img {
   vertical-align: middle;
-  width: 100%;
-  max-width: 300px;
+  max-width: 100%;
+  max-height: 335px;
 }
 
 .Gallery--Item figcaption {

@@ -28,6 +28,12 @@
   padding: 10px;
 }
 
+.Gallery .BackgroundImage:hover,
+.Gallery .BackgroundImage:focus {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.15);
+}
+
 .BackgroundImage .Image {
   top: 0;
   left: 0;
