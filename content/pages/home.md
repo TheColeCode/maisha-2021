@@ -12,4 +12,4 @@ meta:
 ---
 Welcome to the portfolio of Maisha Photography. 'Maisha' translates to 'Life' in Swahili. I am Eunice Ndegwa, a Kenyan/American photographer with experience in Family, Portrait, Event, and Newborn photography. I am happy to serve you across Sonoma County, San Francisco, and the greater Bay Area. Please follow me on Instagram @maisha.photography.ig and reach out for bookings and questions. 
 
-![Maisha Photography](https://ucarecdn.com/b71f804f-85d6-4151-b014-172573988d1a/ "Eunice Ndegwa of Maisha Photography")
+![Maisha Photography](https://ucarecdn.com/43892084-9f86-40c2-a672-a46d0eb823de/ "Eunice Ndegwa of Maisha Photography")
