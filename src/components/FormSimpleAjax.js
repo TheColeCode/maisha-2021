@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-// import Helmet from 'react-helmet'
+import Helmet from 'react-helmet'
 import { stringify } from 'qs'
 import { serialize } from 'dom-form-serializer'
 
@@ -58,16 +58,16 @@ class Form extends React.Component {
 
     return (
       <Fragment>
-        {/* <Helmet>
+        <Helmet>
           <script src="https://www.google.com/recaptcha/api.js" />
-        </Helmet> */}
+        </Helmet>
         <form
           className="Form"
           name={name}
           action={action}
           onSubmit={this.handleSubmit}
-          data-netlify=""
-          netlify-recaptcha=""
+          data-netlify="true"
+          netlify-recaptcha="true"
         >
           {this.state.alert && (
             <div className="Form--Alert">{this.state.alert}</div>
@@ -128,10 +128,10 @@ class Form extends React.Component {
             />
             <span>Message</span>
           </label>
-          {/* <div
+          <div
             className="g-recaptcha"
-            data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
-          /> */}
+            data-sitekey="d68b4d5d-851a-4f58-b3d9-85b15337c82b"
+          />
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
           <input
