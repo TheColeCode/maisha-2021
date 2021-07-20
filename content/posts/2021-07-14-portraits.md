@@ -3,7 +3,7 @@ template: SinglePost
 title: Portraits
 status: Published
 date: 2021-07-14
-featuredImage: https://ucarecdn.com/15ad071d-e748-4b75-9f8d-b37e132fbb0c/
+featuredImage: https://ucarecdn.com/11604886-30ba-4714-b38c-6ae6d8707b09/-/crop/800x477/0,0/-/preview/
 excerpt: "Portraits are a great way to capture kids in memorable moments,
   celebrate special events like a graduation, and give as a gift to a loved one.
   "
