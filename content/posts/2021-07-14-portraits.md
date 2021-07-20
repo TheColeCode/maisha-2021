@@ -16,16 +16,16 @@ gallery:
     alt: Lillian in grass
   - image: https://ucarecdn.com/f813a3b3-f4ff-4aba-af9d-f321208a36f1/
     alt: Kid with yellow background
-  - image: https://ucarecdn.com/8837e868-ef58-4d9a-9d97-eb81c4f4e78e/
-    alt: kid in forrest
   - image: https://ucarecdn.com/381498f3-0872-4dac-ad73-a33530d52ff2/-/crop/509x575/134,0/-/preview/
     alt: Lillian
+  - image: https://ucarecdn.com/8837e868-ef58-4d9a-9d97-eb81c4f4e78e/
+    alt: kid in forrest
   - image: https://ucarecdn.com/2706a9d4-977a-431b-8dbe-0fca4235104e/
     alt: Kid with pink hat
-  - image: https://ucarecdn.com/94e0934f-8c09-4731-a215-d29c9eb077a1/
-    alt: Man with orange leaves
   - image: https://ucarecdn.com/cac7fdaa-adde-4aab-aa3f-a17fe138c67e/-/crop/409x533/189,0/-/preview/
     alt: Lillian in forrest
+  - image: https://ucarecdn.com/94e0934f-8c09-4731-a215-d29c9eb077a1/
+    alt: Man with orange leaves
   - image: https://ucarecdn.com/9a88a89f-b3ec-46d0-9dcb-5dd219d5d14f/
     alt: kid on stairs
   - image: https://ucarecdn.com/6f8b6049-2ab1-4a42-a41f-eac276067b24/-/crop/440x533/162,0/-/preview/
