@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: https://ucarecdn.com/a22829f5-5256-4a98-9dfa-db47530fe012/
+featuredImage: https://ucarecdn.com/3ef2d15b-c3f6-44fd-88d5-817949560b4f/
 subtitle: Bookings, Pricing, Questions
 address: Sonoma County, CA
 phone: (707) 570-5740
