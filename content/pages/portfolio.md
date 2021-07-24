@@ -2,7 +2,7 @@
 template: PortfolioPage
 slug: portfolio
 title: Portfolio
-featuredImage: https://ucarecdn.com/7f3b2e9c-4e80-4333-96b2-a586c1a72605/
+featuredImage: https://ucarecdn.com/e528fbba-cc6c-4db7-8150-feebf85999a4/
 subtitle: This is the portfolio page subtitle.
 meta:
   description: This is a meta description.
