@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: GiannaMatt
+title: Gianna-Matthew
 status: Published
 date: 2021-08-03
 featuredImage: https://ucarecdn.com/5a54dbd2-a681-430f-ad95-1ecc35845e6a/
