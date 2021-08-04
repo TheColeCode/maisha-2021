@@ -6,7 +6,7 @@ date: 2021-08-03
 featuredImage: https://ucarecdn.com/5a54dbd2-a681-430f-ad95-1ecc35845e6a/
 excerpt: Gianna & Mathew
 categories:
-  - category: Private
+  - category: Public
 gallery:
   - image: https://ucarecdn.com/6c4afd3b-9214-48f6-89ae-2fef8f68a633/
     alt: alt
