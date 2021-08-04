@@ -26,8 +26,6 @@ gallery:
     alt: "7"
   - image: https://ucarecdn.com/0fc74688-53cb-4794-ad4c-1ac8e9ac8c3b/
     alt: "8"
-  - image: https://ucarecdn.com/625c103f-09b4-441b-ae6f-539ecb7ab85e/
-    alt: "9"
   - image: https://ucarecdn.com/8c7547f3-1be2-4cb1-9279-6b74acafc69d/
     alt: "10"
   - image: https://ucarecdn.com/446467b3-04f0-4d59-b7d8-06deded1d5fb/
