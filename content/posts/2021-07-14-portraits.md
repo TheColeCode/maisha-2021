@@ -12,14 +12,16 @@ categories:
 gallery:
   - image: https://ucarecdn.com/a000c89c-c6f5-4c1a-8655-2bcf3e3d5e1e/
     alt: Gianna
-  - image: https://ucarecdn.com/e6280be5-5ec7-43d0-b17e-e353ff01ddbf/
-    alt: Kid on stairs
+  - image: https://ucarecdn.com/842a1a71-d986-48f9-bd9e-781c2152eaed/
+    alt: Fall Leaves
   - image: https://ucarecdn.com/ac23e96b-609a-4f5c-84e0-351054a7049a/
     alt: Lillian in grass
   - image: https://ucarecdn.com/f813a3b3-f4ff-4aba-af9d-f321208a36f1/
     alt: Kid with yellow background
   - image: https://ucarecdn.com/8837e868-ef58-4d9a-9d97-eb81c4f4e78e/
     alt: kid in forrest
+  - image: https://ucarecdn.com/e6280be5-5ec7-43d0-b17e-e353ff01ddbf/
+    alt: Kid on stairs
   - image: https://ucarecdn.com/2706a9d4-977a-431b-8dbe-0fca4235104e/
     alt: Kid with pink hat
   - image: https://ucarecdn.com/9a88a89f-b3ec-46d0-9dcb-5dd219d5d14f/
@@ -36,5 +38,7 @@ gallery:
     alt: kid in barn
   - image: https://ucarecdn.com/f0e558ed-23eb-43ac-a99c-bb51ee8eae45/
     alt: Lillian in forrest
+  - image: https://ucarecdn.com/7bb692c4-254f-4e6b-abbd-937ca426a177/
+    alt: African Prints
 ---
 Portraits are a great way to capture kids in memorable moments, celebrate special events like a graduation, and give as a gift to a loved one.
