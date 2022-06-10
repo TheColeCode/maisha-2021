@@ -10,8 +10,12 @@ excerpt: "Portraits are a great way to capture kids in memorable moments,
 categories:
   - category: Public
 gallery:
-  - image: https://ucarecdn.com/a000c89c-c6f5-4c1a-8655-2bcf3e3d5e1e/
-    alt: Gianna
+  - image: https://ucarecdn.com/06d542dc-e4c2-449d-975b-a9949c38237b/
+    alt: maternity
+    title: maternity
+  - image: https://ucarecdn.com/10935573-ee62-4a14-bb91-b271bc9c18cf/
+    alt: maternity
+    title: maternity
   - image: https://ucarecdn.com/842a1a71-d986-48f9-bd9e-781c2152eaed/
     alt: Fall Leaves
   - image: https://ucarecdn.com/ac23e96b-609a-4f5c-84e0-351054a7049a/
