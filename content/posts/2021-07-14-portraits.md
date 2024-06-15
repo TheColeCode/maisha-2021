@@ -16,6 +16,8 @@ gallery:
     alt: kid
   - image: https://ucarecdn.com/842a1a71-d986-48f9-bd9e-781c2152eaed/
     alt: Fall Leaves
+  - image: https://ucarecdn.com/093f4711-659c-44c7-a3cf-d7938b935bff/
+    alt: kid
   - image: https://ucarecdn.com/ac23e96b-609a-4f5c-84e0-351054a7049a/
     alt: Lillian in grass
   - image: https://ucarecdn.com/f813a3b3-f4ff-4aba-af9d-f321208a36f1/
