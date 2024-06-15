@@ -16,6 +16,8 @@ gallery:
   - image: https://ucarecdn.com/10935573-ee62-4a14-bb91-b271bc9c18cf/
     alt: maternity
     title: ""
+  - image: https://ucarecdn.com/f8081825-e3a2-450b-aaf3-3245c08dc6a0/
+    alt: Kid
   - image: https://ucarecdn.com/842a1a71-d986-48f9-bd9e-781c2152eaed/
     alt: Fall Leaves
   - image: https://ucarecdn.com/ac23e96b-609a-4f5c-84e0-351054a7049a/
