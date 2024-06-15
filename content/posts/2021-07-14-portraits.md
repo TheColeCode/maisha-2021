@@ -30,11 +30,11 @@ gallery:
     alt: Kid on stairs
   - image: https://ucarecdn.com/2706a9d4-977a-431b-8dbe-0fca4235104e/
     alt: Kid with pink hat
+  - image: https://ucarecdn.com/9a88a89f-b3ec-46d0-9dcb-5dd219d5d14f/
+    alt: kid on stairs
   - image: https://ucarecdn.com/10935573-ee62-4a14-bb91-b271bc9c18cf/
     alt: maternity
     title: ""
-  - image: https://ucarecdn.com/9a88a89f-b3ec-46d0-9dcb-5dd219d5d14f/
-    alt: kid on stairs
   - image: https://ucarecdn.com/06d542dc-e4c2-449d-975b-a9949c38237b/
     alt: maternity
     title: ""
