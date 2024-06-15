@@ -12,14 +12,14 @@ categories:
 gallery:
   - image: https://ucarecdn.com/f8081825-e3a2-450b-aaf3-3245c08dc6a0/
     alt: Kid
+  - image: https://ucarecdn.com/bade29c0-98a4-4ac2-91f4-fc3e93ec393a/
+    alt: kid
   - image: https://ucarecdn.com/d584fdbe-3f23-42c4-9c37-e4a25e44d34e/
+    alt: kid
+  - image: https://ucarecdn.com/093f4711-659c-44c7-a3cf-d7938b935bff/
     alt: kid
   - image: https://ucarecdn.com/842a1a71-d986-48f9-bd9e-781c2152eaed/
     alt: Fall Leaves
-  - image: https://ucarecdn.com/093f4711-659c-44c7-a3cf-d7938b935bff/
-    alt: kid
-  - image: https://ucarecdn.com/bade29c0-98a4-4ac2-91f4-fc3e93ec393a/
-    alt: kid
   - image: https://ucarecdn.com/ac23e96b-609a-4f5c-84e0-351054a7049a/
     alt: Lillian in grass
   - image: https://ucarecdn.com/f813a3b3-f4ff-4aba-af9d-f321208a36f1/
