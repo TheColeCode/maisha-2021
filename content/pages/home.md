@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Welcome
-featuredImage: https://ucarecdn.com/744370bd-ae09-471e-9eff-31e1e2250e16/
+featuredImage: https://ucarecdn.com/456f0308-f51f-437a-8b20-6201564fc98d/
 subtitle: Let's make them last forever
 meta:
   description: "Maisha Photography is a Family, Portrait, Event, Newborn,
